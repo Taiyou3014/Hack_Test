@@ -7,5 +7,5 @@ hello by okura!
 guten Morgen!
 こんにちは
 '''
-がんばるん
+頑張るんば
 '''
