@@ -6,3 +6,6 @@ main
 hello by okura!
 guten Morgen!
 こんにちは
+'''
+がんばるんば
+'''
